@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/BasicCSS/BasicCSS.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/BasicCSS/sandbox/BasicCSS.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/BasicCSS.build/BasicCSS.build.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
